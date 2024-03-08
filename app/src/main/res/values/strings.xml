@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonExercise</string>
+    <string name="click">CLICK</string>
+    <string name="my_first_button">My first Button!</string>
+</resources>
